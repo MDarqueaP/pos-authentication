@@ -42,6 +42,9 @@ For this project to work it's necessary that your PostgreSQL DB is up in your lo
 
 **DB name: posDB**
 
+## Configure environment variables
+To set the environment variables you can use the .env.exmaple and make a copy of it and name it .env, or set up your own variables on your system.
+
 ## Build
 
 To build the project use the following steps:
